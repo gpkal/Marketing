@@ -21,7 +21,7 @@ We established three core business objectives:
 2. **Product Focus**: Increase profit through strategic product cross-selling initiatives
 3. **Feedback Focus**: Address detractors and promoters through loyal engagement marketing to manage sentiment impact
 
-## Methodology & Results
+## Methodology
 
 ### Customer Segmentation and Churn Analysis
 We developed:
